@@ -1,10 +1,11 @@
+import Image from "next/image";
 export function About() {
   return (
     <div
       id="about"
       className="my-10 mx-auto flex flex-row gap-3 justify-center"
     >
-      <img
+      <Image
         src="/Untitled-111.jpg"
         width={300}
         height={300}
