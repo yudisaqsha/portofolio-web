@@ -32,6 +32,11 @@ export default function Portofolio() {
         </li>
 
         <li className="bg-white shadow-lg rounded-xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a
+            href={"https://circle-sage.vercel.app/"}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
           <img
             src="/Screenshot_1.jpg"
             alt="Circle App"
@@ -46,6 +51,7 @@ export default function Portofolio() {
               people to stay connected with the discussions that matter to you.
             </p>
           </div>
+          </a>
         </li>
       </ul>
     </div>
