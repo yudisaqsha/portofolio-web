@@ -55,7 +55,7 @@ export default function RootLayout({
             </li>
             <li>
               <a
-                href="https://drive.google.com/file/d/1cPQMZk3tI5yR033vQ4GA5iIXR4VpJn3G/view"
+                href="https://drive.google.com/file/d/1aIJ5r9KMmhfRyGmMYi9vT-Im_IVwQKFm/view"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`hover:text-[#355d90]`}
